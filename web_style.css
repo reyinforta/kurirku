@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #f7f7f7;
+  color: #222;
+}
+header {
+  background: #3476e6;
+  color: #fff;
+  padding: 2rem 1rem;
+  text-align: center;
+}
+main {
+  padding: 2rem 1rem;
+  max-width: 600px;
+  margin: auto;
+}
+.fitur {
+  background: #fff;
+  padding: 1rem;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+  box-shadow: 0 2px 8px #0001;
+}
+.fitur h2 {
+  margin-top: 0;
+}
+.fitur ul {
+  padding-left: 1.5rem;
+}
+.cta {
+  text-align: center;
+}
+.cta button {
+  background: #3476e6;
+  color: #fff;
+  border: none;
+  padding: 1rem 2rem;
+  border-radius: 6px;
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.cta button:hover {
+  background: #1e4e9b;
+}
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #eee;
+  font-size: 0.95rem;
+  color: #888;
+  margin-top: 3rem;
+}
